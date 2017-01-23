@@ -1,10 +1,10 @@
 Original gist is here:
 
-  https://gist.github.com/Burgestrand/575ee47fae55cba18d29f28227740a18
+<https://gist.github.com/Burgestrand/575ee47fae55cba18d29f28227740a18>
 
 There's a blog post about this repository:
 
-  https://www.burgestrand.se/articles/statically-typed-notificationcenter-in-swift/
+<https://www.burgestrand.se/articles/statically-typed-notificationcenter-in-swift/>
 
 And here's a usage example:
 
