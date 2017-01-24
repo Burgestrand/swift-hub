@@ -46,6 +46,7 @@ Some thoughts regarding possible changes or updates:
 - We don't allow specifying `queue` in `observe`.
 - There's no alternative with an observer that auto-cancels on deinit.
 - There's no observe that observes just once.
+- Would be nice to turn this into a Cocoapod/Carthage/Swift Package.
 
 ## License
 
